@@ -752,7 +752,7 @@
 				CODE_SIGN_ENTITLEMENTS = "App/Supporting Files/App.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "";
-				DEVELOPMENT_TEAM = DMCVYHA293;
+				DEVELOPMENT_TEAM = BNV27HH5PK;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "App/Supporting Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -760,7 +760,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pawelwiszenko.WidgetExamples;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zhoubo.WidgetExamples;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -776,7 +776,7 @@
 				CODE_SIGN_ENTITLEMENTS = "App/Supporting Files/App.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "";
-				DEVELOPMENT_TEAM = DMCVYHA293;
+				DEVELOPMENT_TEAM = BNV27HH5PK;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "App/Supporting Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -784,7 +784,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pawelwiszenko.WidgetExamples;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zhoubo.WidgetExamples;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -798,14 +798,14 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_ENTITLEMENTS = "WidgetExtension/Supporting Files/WidgetExtension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DMCVYHA293;
+				DEVELOPMENT_TEAM = BNV27HH5PK;
 				INFOPLIST_FILE = "WidgetExtension/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pawelwiszenko.WidgetExamples.WidgetExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zhoubo.WidgetExamples.WidgetExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -820,14 +820,14 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_ENTITLEMENTS = "WidgetExtension/Supporting Files/WidgetExtension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DMCVYHA293;
+				DEVELOPMENT_TEAM = BNV27HH5PK;
 				INFOPLIST_FILE = "WidgetExtension/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pawelwiszenko.WidgetExamples.WidgetExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zhoubo.WidgetExamples.WidgetExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -840,15 +840,15 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "IntentHandler/Supporting Files/IntentHandler.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DMCVYHA293;
+				DEVELOPMENT_TEAM = BNV27HH5PK;
 				INFOPLIST_FILE = "IntentHandler/Supporting Files/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pawelwiszenko.WidgetExamples.IntentHandler;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zhoubo.WidgetExamples.IntentHandler;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -861,15 +861,15 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "IntentHandler/Supporting Files/IntentHandler.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DMCVYHA293;
+				DEVELOPMENT_TEAM = BNV27HH5PK;
 				INFOPLIST_FILE = "IntentHandler/Supporting Files/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pawelwiszenko.WidgetExamples.IntentHandler;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zhoubo.WidgetExamples.IntentHandler;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;

@@ -11,7 +11,7 @@ import Foundation
 typealias Key = UserDefaults.Keys
 
 extension UserDefaults {
-    static let appGroup = UserDefaults(suiteName: "group.com.pawelwiszenko.WidgetExamples")!
+    static let appGroup = UserDefaults(suiteName: "group.com.zhoubo.WidgetExamples")!
 }
 
 extension UserDefaults {

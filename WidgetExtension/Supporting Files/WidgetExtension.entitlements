@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.com.pawelwiszenko.WidgetExamples</string>
+		<string>group.com.zhoubo.ZBWidgetDemo.WidgetExamples</string>
 	</array>
 </dict>
 </plist>
